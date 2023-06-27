@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-27T08:21:22Z" name="Default suite" finished-at="2023-06-27T08:21:39Z" duration-ms="16994">
+    <groups>
+    </groups>
+    <test started-at="2023-06-27T08:21:22Z" name="Default test" finished-at="2023-06-27T08:21:39Z" duration-ms="16994">
+      <class name="demo1.souled_store">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:22Z" name="setup" finished-at="2023-06-27T13:51:33Z" duration-ms="10716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="I_am_check_button_is_vesible_or_cliclble_or_Not()[pri:1, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:33Z" name="I_am_check_button_is_vesible_or_cliclble_or_Not" finished-at="2023-06-27T13:51:33Z" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_am_check_button_is_vesible_or_cliclble_or_Not -->
+        <test-method signature="I_should_see_Login_page_with_title()[pri:2, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:33Z" name="I_should_see_Login_page_with_title" finished-at="2023-06-27T13:51:34Z" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_should_see_Login_page_with_title -->
+        <test-method signature="I_should_see_Register_page_with_title()[pri:3, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:34Z" name="I_should_see_Register_page_with_title" finished-at="2023-06-27T13:51:35Z" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_should_see_Register_page_with_title -->
+        <test-method signature="I_Click_the_Register_Button()[pri:4, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:35Z" name="I_Click_the_Register_Button" finished-at="2023-06-27T13:51:35Z" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_Click_the_Register_Button -->
+        <test-method signature="enter_my_firstname()[pri:5, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:35Z" name="enter_my_firstname" finished-at="2023-06-27T13:51:35Z" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_my_firstname -->
+        <test-method signature="enter_my_lastname()[pri:6, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:35Z" name="enter_my_lastname" finished-at="2023-06-27T13:51:36Z" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_my_lastname -->
+        <test-method signature="enter_Email()[pri:7, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:36Z" name="enter_Email" finished-at="2023-06-27T13:51:36Z" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_Email -->
+        <test-method signature="enter_New_password()[pri:8, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:36Z" name="enter_New_password" finished-at="2023-06-27T13:51:36Z" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_New_password -->
+        <test-method signature="enter_conform_password()[pri:9, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:36Z" name="enter_conform_password" finished-at="2023-06-27T13:51:36Z" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_conform_password -->
+        <test-method signature="enter_Mobile_number()[pri:10, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:36Z" name="enter_Mobile_number" finished-at="2023-06-27T13:51:37Z" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_Mobile_number -->
+        <test-method signature="I_select_a_femal_and_then_male_gender()[pri:11, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:37Z" name="I_select_a_femal_and_then_male_gender" finished-at="2023-06-27T13:51:37Z" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_select_a_femal_and_then_male_gender -->
+        <test-method signature="enter_Register_Button()[pri:12, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:37Z" name="enter_Register_Button" finished-at="2023-06-27T13:51:37Z" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_Register_Button -->
+        <test-method signature="enter_Login_link()[pri:13, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:37Z" name="enter_Login_link" finished-at="2023-06-27T13:51:38Z" duration-ms="909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_Login_link -->
+        <test-method signature="enter_valid_phone_number()[pri:14, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:38Z" name="enter_valid_phone_number" finished-at="2023-06-27T13:51:39Z" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_valid_phone_number -->
+        <test-method signature="click_login_button()[pri:15, instance:demo1.souled_store@6f7923a5]" started-at="2023-06-27T13:51:39Z" name="click_login_button" finished-at="2023-06-27T13:51:39Z" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_login_button -->
+      </class> <!-- demo1.souled_store -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
